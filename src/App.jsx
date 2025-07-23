@@ -510,8 +510,7 @@ const App = () => {
         }
 
         .footer {
-          background: var(--text-primary);
-          color: white;
+          
           text-align: center;
           padding: 2rem 1rem;
         }
@@ -857,6 +856,10 @@ const App = () => {
           <a href="https://www.instagram.com/jasilchalikkara/" className="social-link">
             <i className="fab fa-instagram"></i>
           </a>
+          <a href="https://wa.me/919539278534" className="social-link" target="_blank" rel="noopener noreferrer">
+  <i className="fab fa-whatsapp"></i>
+</a>
+
         </div>
         <p>&copy; 2025 Muhammed Jasil. All rights reserved.</p>
       </footer>
