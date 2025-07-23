@@ -850,7 +850,7 @@ const App = () => {
       {/* Footer */}
       <footer className="footer">
         <div className="social-links">
-          <a href="https://www.linkedin.com/in/muhammed-jasil" className="social-link">
+          <a href="https://www.linkedin.com/in/muhammed-jasil-535097326/" className="social-link">
             <i className="fab fa-linkedin"></i>
           </a>
           <a href="https://www.instagram.com/jasilchalikkara/" className="social-link">
